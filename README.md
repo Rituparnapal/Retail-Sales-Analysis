@@ -7,14 +7,14 @@ The objective of this project is to conduct Exploratory Data Analysis (EDA) to u
 
 Analysis and Insights:
 
-1. Electronics Category DominanceThe Electronics category recorded the highest total sales among all product categories.
-2. Customer Demographics in ElectronicsThe average age of customers purchasing electronics is approximately 41.60 years, indicating a mature customer base.
-3. Gender Contribution to Electronics SalesMale customers contributed a higher total sales amount in the Electronics category compared to female customers.
-4. Top Performing CustomersThe analysis identified the top 5 customers based on their total purchase value.
-5. Age Group Distribution Across CategoriesFor all three categories, female customers aged between 31 and 50 represent the highest count, with Clothing being the most preferred category within this group.
-6. Seasonal Sales TrendsThe highest average total sales were observed in July (2022) and February (2023), indicating peak sales periods.
-7. Shift-wise Order DistributionAcross all categories, the morning shift sees the highest number of orders, followed by the evening, with the afternoon shift having the least.
-8. Profitability by CategoryThe Clothing category generated the highest profit.
+1. Electronics Category Dominance The Electronics category recorded the highest total sales among all product categories.
+2. Customer Demographics in Electronics The average age of customers purchasing electronics is approximately 41.60 years, indicating a mature customer base.
+3. Gender Contribution to Electronics Sales Male customers contributed a higher total sales amount in the Electronics category compared to female customers.
+4. Top Performing Customers The analysis identified the top 5 customers based on their total purchase value.
+5. Age Group Distribution Across Categories For all three categories, female customers aged between 31 and 50 represent the highest count, with Clothing being the most preferred category within this group.
+6. Seasonal Sales Trends The highest average total sales were observed in July (2022) and February (2023), indicating peak sales periods.
+7. Shift-wise Order Distribution Across all categories, the morning shift sees the highest number of orders, followed by the evening, with the afternoon shift having the least.
+8. Profitability by Category The Clothing category generated the highest profit.
 
 Recommendations:
 
